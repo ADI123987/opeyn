@@ -1,0 +1,30 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Royal</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle fill="#fc6"
+  r="5" cy="13.999" cx="30.998" data-name="layer1"></circle>
+  <circle fill="#fc6" r="4" cy="22.998" cx="4.996" data-name="layer1"></circle>
+  <circle fill="#fc6" r="4" cy="22.998" cx="57" data-name="layer1"></circle>
+  <path opacity=".15" fill="#000064" d="M28 12a4.945 4.945 0 0 1 .625-2.372 4.984 4.984 0 1 0 6.754 6.746A4.942 4.942 0 0 1 33 17a5 5 0 0 1-5-5zM3 21a3.965 3.965 0 0 1 .359-1.639 4 4 0 1 0 5.286 5.278A3.987 3.987 0 0 1 3 21zm52 0a3.972 3.972 0 0 1 .359-1.64 4 4 0 1 0 5.286 5.277A3.984 3.984 0 0 1 55 21z"
+  data-name="opacity"></path>
+  <path d="M9.397 45l1.601 8.004 40 .028L52.603 45H9.397z" fill="#f27e7c"
+  data-name="layer2"></path>
+  <path fill="#fc6" d="M56.215 26.921L55 26.463c-9.346 15.754-18.773 7.464-22.9-7.586h-2.17C26.012 33.958 17.516 42.3 7.066 26.42L5.8 27l3.6 18h43.2z"
+  data-name="layer1"></path>
+  <path opacity=".15" fill="#000064" d="M29 25a36.662 36.662 0 0 0 4.1-2.9 45.898 45.898 0 0 1-1-3.22h-2.17C26.012 33.958 17.516 42.3 7.066 26.42L5.8 27l3.6 18 1.6 8 14 .01V53c-3-19 4-28 4-28z"
+  data-name="opacity"></path>
+  <path opacity=".4" fill="#fff" d="M38.458 31.786l-1.991 21.236 10.144.007L49.7 32.953c-4.094 3.229-8 2.326-11.242-1.167z"
+  data-name="opacity"></path>
+  <path d="M5.797 27.002l5.201 26.001 40 .028 5.217-26.111m-49.149-.5c10.45 15.88 18.946 7.538 22.864-7.539M55 26.462c-9.346 15.754-18.773 7.464-22.9-7.586"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369"
+  fill="none" data-name="stroke"></path>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="5" cy="13.999" cx="30.998" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="4" cy="22.998" cx="4.996" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="4" cy="22.998" cx="57" data-name="stroke"></circle>
+  <path d="M9.398 44.998h43.204" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round" stroke="#2e4369" fill="none" data-name="stroke"></path>
+</svg>

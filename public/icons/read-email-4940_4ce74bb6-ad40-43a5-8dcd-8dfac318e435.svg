@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Read Email</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#fff4e3" d="M54 33.6V21l8 6.9-8 5.7zm-44 0V21l-8 6.9 8 5.7z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".14" d="M54 33.6V21l8 6.9-8 5.7zm-44 0V21l-8 6.9 8 5.7z"></path>
+  <path data-name="layer2" d="M22.9 40.9c3.9-3.9 14.2-3.9 18.1 0l1 1 12-8.3V2H10v31.6l11.9 8.3z"
+  fill="#eefcff"></path>
+  <path data-name="layer1" d="M41.1 40.9C37.2 37 26.9 37 23 40.9l-1 1L2 28v34h60V28L42.1 41.9z"
+  fill="#fff4e3"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M10 21.1L2 28m52-6.9l8 6.9m-8 5.6V2H10v31.6M18 12h10m-4 8h22m-28 8h28"
+  stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M62 28v34H2V28m40.1 13.9L62 28M2 28l19.9 13.9"
+  stroke-linejoin="round"></path>
+  <path data-name="stroke" d="M2 62l20.9-21.1c3.9-3.9 14.2-3.9 18.1 0L62 62"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+</svg>

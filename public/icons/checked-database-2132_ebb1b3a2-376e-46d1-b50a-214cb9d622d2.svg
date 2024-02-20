@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Checked Database</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="42" cy="46" r="16" fill="#44d88d"></circle>
+  <path data-name="layer1" d="M26 46a16 16 0 0 1 26-12.5V10c-.1-4-10.3-8-23-8S6.1 6 6 10v36c0 4.3 9.8 7.8 22.1 8a15.9 15.9 0 0 1-2.1-8z"
+  fill="#7b8baf"></path>
+  <path data-name="opacity" d="M28.1 54a16 16 0 0 1 4.8-21.1 16 16 0 0 0-9.8 20.9l5.1.3z"
+  fill="#000064" opacity=".18"></path>
+  <ellipse data-name="opacity" cx="29" cy="10" rx="23" ry="8" fill="#fff"
+  opacity=".15"></ellipse>
+  <path data-name="opacity" d="M6 10v36c0 2.6 3.5 4.9 9 6.3v-36c-5.5-1.4-9-3.7-9-6.3z"
+  fill="#000064" opacity=".18"></path>
+  <path data-name="opacity" d="M39 17.2v13.1l3-.3a15.9 15.9 0 0 1 6 1.2V14.5a32.2 32.2 0 0 1-9 2.7z"
+  fill="#fff" opacity=".15"></path>
+  <ellipse data-name="stroke" cx="29" cy="10" rx="23" ry="8" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></ellipse>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M52 33.5V10M6 10v36c0 4.3 9.8 7.8 22.1 8"></path>
+  <path data-name="stroke" d="M52 22c0 4.4-10.3 8-23 8S6 26.4 6 22m20.5 19.9C15 41.5 6 38.1 6 34"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="42" cy="46" r="16" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M49 42l-8 9-5-5"></path>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Sales Up</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#c3d6f9" d="M52 22h8v40.02h-8zM36 42h8v19.99h-8zm-16-6h8v26h-8zM4 50h8v12H4z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M4 50h8v12H4z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".15" d="M36 42h8v19.99h-8z"></path>
+  <path data-name="opacity" opacity=".15" d="M52 22h8v40h-8z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M48 2h8v8"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M8 30l18-16 12 6L56 2m-4 60V22h8v40m-24 0V42h8v20m-24 0V36h8v26M4 62V50h8v12m50 0H2"></path>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Rocket</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M61.9 2.1S47.5-.2 31.3 16c-9.8 9.8-17.9 24-17.9 24l10.7 10.6s14.2-8.1 24-17.9C64.2 16.5 61.9 2.1 61.9 2.1z"
+  fill="#a3b8df"></path>
+  <circle data-name="layer2" cx="49" cy="15" r="4" fill="#c3d6e0"></circle>
+  <circle data-name="layer2" cx="39" cy="25" r="4" fill="#c3d6e0"></circle>
+  <path data-name="layer1" d="M23.7 24.7c-6.2-.8-10.2-1.9-15 4.9A51 51 0 0 0 2 42.5L13.4 40a148.5 148.5 0 0 1 10.4-15.3zm.4 25.9L21.5 62a50.9 50.9 0 0 0 12.9-6.7c6.8-4.8 5.7-8.8 4.9-15a148.6 148.6 0 0 1-15.2 10.3z"
+  fill="#ed4c49"></path>
+  <path data-name="opacity" d="M61.9 2.1S53 15 48 20 25.9 40.1 19.4 45.9l4.7 4.7-1.2 5.2c4.3-1.8 10.7-4.6 16.9-7.6.4-2.3 0-4.8-.4-7.9a93.4 93.4 0 0 0 8.7-7.6C64.2 16.5 61.9 2.1 61.9 2.1z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" d="M23.7 24.7c-6.2-.8-10.2-1.9-15 4.9A51 51 0 0 0 2 42.5L13.4 40m10.7 10.6L21.5 62a50.9 50.9 0 0 0 12.9-6.7c6.8-4.8 5.7-8.8 4.9-15"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="49" cy="15" r="4" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="39" cy="25" r="4" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" d="M61.9 2.1S47.5-.2 31.3 16c-9.8 9.8-17.9 24-17.9 24l10.7 10.6s14.2-8.1 24-17.9C64.2 16.5 61.9 2.1 61.9 2.1z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

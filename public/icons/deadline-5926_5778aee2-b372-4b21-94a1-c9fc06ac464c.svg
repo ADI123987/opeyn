@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Deadline</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="32" cy="32" r="30" fill="#e1f4f3"></circle>
+  <path data-name="layer1" d="M29.375 35.625L19.293 21.707a1.007 1.007 0 0 1 1.414-1.414l13.918 10.082A3.739 3.739 0 0 1 30 36.254a3.914 3.914 0 0 1-.625-.629z"
+  fill="#ff5a6f"></path>
+  <path data-name="opacity" d="M27.375 39.625L17.293 25.707a1.007 1.007 0 0 1 1.414-1.414l13.918 10.082A3.739 3.739 0 0 1 28 40.254a3.914 3.914 0 0 1-.625-.629z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="opacity" d="M30 59.6a26 26 0 0 1-18.385-44.384 2 2 0 0 1 2.828 2.828A22 22 0 1 0 32 11.689V20a2 2 0 0 1-4 0V9.6a2 2 0 0 1 2-2 26 26 0 0 1 0 52z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" d="M29.375 35.625L19.293 21.707a1.007 1.007 0 0 1 1.414-1.414l13.918 10.082A3.739 3.739 0 0 1 30 36.254a3.914 3.914 0 0 1-.625-.629z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="stroke" d="M15.029 15.029A24 24 0 1 0 32 8v10.4"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <circle data-name="stroke" cx="32" cy="32" r="30" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></circle>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Add User</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer2"
+  cx="48" cy="48" r="14" fill="#78d1f4"></circle>
+  <path data-name="opacity" d="M51 59a14 14 0 0 1-11.3-22.3 14 14 0 1 0 19.6 19.6A13.9 13.9 0 0 1 51 59z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="layer1" d="M35.9 41c-3.3-1-3.9-2.9-3.9-4v-2a14.1 14.1 0 0 0 4-7c2.5 0 4-3 4-6 0-.8 0-4-2-4C43 3.5 28.4-2 18 5c-4.4 0-5.6 6.6-4 13-2 0-2 3.2-2 4 0 3 1.5 6 4 6a13.6 13.6 0 0 0 4 7v2c0 1.6-.5 3.6-8.6 5.2S2 51 2 51h32.3a13.9 13.9 0 0 1 1.6-10z"
+  fill="#a5d0ec"></path>
+  <path data-name="opacity" d="M34.3 51a13.9 13.9 0 0 1 1.6-10l-.5-.2c-4.5 1.6-6 5.4-7 10.2h6zM20 28c.8 3 4.1 5.3 6 7v2c0 1.6-.5 3.6-8.6 5.2S8 51 8 51H2s0-7 9.4-8.8S20 38.6 20 37v-2a13.6 13.6 0 0 1-4-7c-2.5 0-4-3-4-6 0-.8 0-4 2-4-1.6-6.4-.4-13 4-13a16.7 16.7 0 0 1 12.5-2.7A17.8 17.8 0 0 0 24 5c-4.4 0-7.6 6.6-6 13 0 0 0 8 2 10z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" d="M35.9 41c-3.3-1-3.9-2.9-3.9-4v-2a14.1 14.1 0 0 0 4-7c2.5 0 4-3 4-6 0-.8 0-4-2-4C43 3.5 28.4-2 18 5c-4.4 0-5.6 6.6-4 13-2 0-2 3.2-2 4 0 3 1.5 6 4 6a14.2 14.2 0 0 0 4 7v2c0 1.6-.5 3.6-8.6 5.2S2 51 2 51h32.3"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="48" cy="48" r="14" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M42 48h12m-6 6V42"></path>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>iMac Screen</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M62 40V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v34" fill="#7b8baf"></path>
+  <path data-name="layer1" d="M2 40v8a2 2 0 0 0 2 2h56a2 2 0 0 0 2-2v-8z"
+  fill="#c3d6f9"></path>
+  <path data-name="opacity" d="M6 48V6a2 2 0 0 1 2-2H4a2 2 0 0 0-2 2v42a2 2 0 0 0 2 2h4a2 2 0 0 1-2-2z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M57 4H46L10 40h11L57 4zm5 36V19L41 40h21z"></path>
+  <path data-name="stroke" d="M62 40V6a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v34m0 0v8a2 2 0 0 0 2 2h56a2 2 0 0 0 2-2v-8zm20 20h20M32 50v10"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

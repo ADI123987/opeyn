@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Computer Network</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#7b8baf" d="M26 52H4V36h22v16z"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M4 52l-2 4v2h26v-2l-2-4"></path>
+  <path data-name="layer2" fill="#7b8baf" d="M43 22H21V6h22v16z"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M21 22l-2 4v2h26v-2l-2-4"></path>
+  <path data-name="layer2" fill="#7b8baf" d="M60 52H38V36h22v16z"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M38 52l-2 4v2h26v-2l-2-4"></path>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M18 36L4 50v2h9l13-13v-3h-8zm14-14h11V11L32 22zm28 14H50L38 48v4h10l12-12v-4z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M26 52H4V36h22v16zM4 52l-2 4v2h26v-2l-2-4m17-30H21V6h22v16zm-22 0l-2 4v2h26v-2l-2-4m17 30H38V36h22v16zm-22 0l-2 4v2h26v-2l-2-4"></path>
+</svg>

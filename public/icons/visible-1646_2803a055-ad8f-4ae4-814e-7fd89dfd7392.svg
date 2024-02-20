@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Visible</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M32 15C12 15 2 33 2 33s10 16 30 16 30-16 30-16-10-18-30-18z" fill="#fff"></path>
+  <path data-name="opacity" d="M30 18c19.8 0 29.8 17.7 30 18a29.8 29.8 0 0 0 2-3S52 15 32 15 2 33 2 33c3.8-5.1 13.2-15 28-15z"
+  fill="#000028" opacity=".15"></path>
+  <circle data-name="layer3" cx="32" cy="30" r="13" fill="#76cee5"></circle>
+  <circle data-name="layer2" cx="32" cy="30" r="7" fill="#2e4369"></circle>
+  <circle data-name="layer1" cx="33" cy="29" r="2.5" fill="#fff"></circle>
+  <path data-name="stroke" d="M62 33S52 15 32 15 2 33 2 33" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+  <circle data-name="stroke" cx="32" cy="30" r="13" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+</svg>

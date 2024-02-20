@@ -1,0 +1,21 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Open 24</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path d="M17.992 46h32l8-24H12l5.992 24z"
+  fill="#c3d6f9" data-name="layer2"></path>
+  <path d="M23.992 42l-4.993-20H12l5.992 24h32l1.333-4H23.992z" opacity=".15"
+  fill="#000064" data-name="opacity"></path>
+  <circle fill="#a6b1c9" r="4" cy="53.975" cx="20" data-name="layer1"></circle>
+  <circle fill="#a6b1c9" r="4" cy="53.975" cx="46" data-name="layer1"></circle>
+  <path d="M26 22H12.008M2 6h6l10 40h32l4.531-13.531" stroke-width="2"
+  stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369" fill="none"
+  data-name="stroke"></path>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="4" cy="54" cx="20" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="4" cy="54" cx="46" data-name="stroke"></circle>
+  <path d="M54 6l-6 14h14m-4-6v12M32 7.551a6 6 0 0 1 8.639 8.278L32 26h12"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369"
+  fill="none" data-name="stroke"></path>
+</svg>

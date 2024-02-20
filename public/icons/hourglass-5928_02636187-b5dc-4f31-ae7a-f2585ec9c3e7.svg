@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Hourglass</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <rect data-name="layer3"
+  x="13" y="57" width="38" height="5" rx="1" ry="1" fill="#b2a18d"></rect>
+  <rect data-name="layer3" x="13" y="2" width="38" height="5" rx="1"
+  ry="1" fill="#b2a18d"></rect>
+  <path data-name="layer2" d="M48 57v-8.487a14 14 0 0 0-5.953-11.457l-5.527-3.881a1 1 0 0 1 0-1.637l5.526-3.881A14 14 0 0 0 48 16.2V7H16v9.2a14 14 0 0 0 5.954 11.457l5.526 3.881a1 1 0 0 1 0 1.637l-5.526 3.881A14 14 0 0 0 16 48.513V57z"
+  fill="#e1f4f3"></path>
+  <path data-name="layer1" d="M48 57v-2c-4 0-9.943-5.646-12.992-8.016a5.114 5.114 0 0 0-6.024.016C25.959 49.392 20 55 16 55v2zM32 37c.133 0 .875-3.382 4.109-4.7a.982.982 0 0 1 .412-.76l5.526-3.881a13.953 13.953 0 0 0 2.117-1.859c-9.5 3.83-16.091-3-24.081.2l-.041.009a13.944 13.944 0 0 0 1.911 1.651l5.526 3.881a1 1 0 0 1 .328 1.231h.008C30.687 33.5 31.833 37 32 37z"
+  fill="#ffe2a2"></path>
+  <path data-name="opacity" d="M25.465 37.056l4.145-3.881a1.209 1.209 0 0 0 0-1.637l-4.145-3.881A15.8 15.8 0 0 1 21 16.2V7h-5v9.2a14 14 0 0 0 5.953 11.457l5.526 3.881a1 1 0 0 1 0 1.637l-5.526 3.881A14 14 0 0 0 16 48.513V57h5v-8.487a15.8 15.8 0 0 1 4.465-11.457z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="opacity" d="M45 48.513a15.949 15.949 0 0 0-4.182-11.156C37.963 35.087 36.01 39.039 37 43c1 4 .937 6 .937 12H45zm-6.082-19.342l1.617-1.514A15.8 15.8 0 0 0 45 16.2V9h-8v11c0 3-2.164 12.342 1.918 9.171z"
+  fill="#fff" opacity=".6"></path>
+  <path data-name="stroke" d="M48 57v-8.487a14 14 0 0 0-5.953-11.457l-5.527-3.881a1 1 0 0 1 0-1.637l5.526-3.881A14 14 0 0 0 48 16.2V7M16 7v9.2a14 14 0 0 0 5.954 11.457l5.526 3.881a1 1 0 0 1 0 1.637l-5.526 3.881A14 14 0 0 0 16 48.513V57"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="stroke" d="M16 55c4 0 9.959-5.608 12.984-8a5.114 5.114 0 0 1 6.024-.016C38.057 49.355 44 55 48 55M20.084 26c8-3.205 14.6 3.65 24.121-.216M27.816 32.77C30.687 33.5 31.833 37 32 37c.144 0 1-4 5-5"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <rect data-name="stroke" x="13" y="57" width="38" height="5" rx="1"
+  ry="1" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></rect>
+  <rect data-name="stroke" x="13" y="2" width="38" height="5" rx="1"
+  ry="1" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></rect>
+</svg>

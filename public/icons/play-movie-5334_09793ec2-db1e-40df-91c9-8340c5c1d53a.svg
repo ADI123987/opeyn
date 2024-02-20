@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Play Movie</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M2 19v34a4 4 0 0 0 4 4h52a4 4 0 0 0 4-4V19z" fill="#f26161"></path>
+  <path data-name="layer1" fill="#fff" d="M22 7L10 19h16L38 7H22z"></path>
+  <path data-name="layer2" d="M6 7a4 4 0 0 0-4 4v8h8L22 7z" fill="#485a7b"></path>
+  <path data-name="layer1" d="M62 11a4 4 0 0 0-4-4h-4L42 19h20z"
+  fill="#fff"></path>
+  <path data-name="layer2" fill="#485a7b" d="M38 7L26 19h16L54 7H38z"></path>
+  <path data-name="layer1" fill="#fff" d="M24 27v20l20-10-20-10z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".16" d="M24 47v3l20-10-3-1.5L24 47zM2 19h60v4H2z"></path>
+  <path data-name="stroke" d="M62 19v-8a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v8M22 7L10 19M38 7L26 19M54 7L42 19m-18 8v20l20-10-20-10z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="stroke" d="M2 19v34a4 4 0 0 0 4 4h52a4 4 0 0 0 4-4V19z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+</svg>

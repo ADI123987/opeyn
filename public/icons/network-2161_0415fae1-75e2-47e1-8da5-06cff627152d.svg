@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Network</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#7b8baf" d="M6 2h32v22H6z"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M6 24l-4 6v2h40v-2l-4-6"></path>
+  <path data-name="layer2" fill="#7b8baf" d="M26 32h32v22H26z"></path>
+  <path data-name="layer1" fill="#c3d6f9" d="M26 54l-4 6v2h40v-2l-4-6"></path>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M30.7 2L8.5 24H27l11-11V2h-7.3zm14.6 30L26 51.5V54h14l18-18v-4H45.3z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M6 2h32v22H6zm20 30H2v-2l4-6m20 8h32v22H26zm0 22l-4 6v2h40v-2l-4-6m-38-6h6m-14-4v4h4m-4-12v4m32-24h-6m14 4v-4h-4m4 12v-4m-10 8v-2l-4-6"></path>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Store</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M47 22.5a7.5 7.5 0 0 1-15 0 7.5 7.5 0 0 1-15 0A7.5 7.5 0 0 1 9.5 30L8 29.8V58h48V29.9h-1.5a7.5 7.5 0 0 1-7.5-7.4z"
+  fill="#e0eafc"></path>
+  <path data-name="layer2" d="M52.6 6H11.4L2 22.5a7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0z"
+  fill="#f27e7c"></path>
+  <path data-name="layer1" fill="#8fa9d8" d="M36 36h12v22H36zm-20 0h14v12H16z"></path>
+  <path d="M2.3 22l-.3.5a7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0l-.3-.5z"
+  opacity=".15"></path>
+  <path data-name="opacity" d="M54.5 30a7.5 7.5 0 0 1-7.5-7.5 7.5 7.5 0 0 1-15 0 7.5 7.5 0 0 1-15 0A7.5 7.5 0 0 1 9.5 30L8 29.8V35h48v-5.1z"
+  opacity=".15"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M36 36h12v22H36z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M56 30v28H8V30"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M16 36h14v12H16zM52.6 6H11.4L2 22.5a7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0 7.5 7.5 0 0 0 15 0zM2 22h60M32 6v16.5m-15 0L22 6m25 16.5L42 6"></path>
+</svg>

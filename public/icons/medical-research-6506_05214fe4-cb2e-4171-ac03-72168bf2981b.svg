@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Medical Research</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M47.962 40l-7.439-14.95A5 5 0 0 1 40 22.819V1.994H24V22.82a5 5 0 0 1-.523 2.227L16.04 40"
+  fill="#b3d9ff"></path>
+  <path data-name="layer1" d="M53.064 50.251L47.962 40H16.04l-5.1 10.254a7.943 7.943 0 0 0-.844 4.98 8.184 8.184 0 0 0 8.17 6.764h27.443a8.2 8.2 0 0 0 8.271-7.44 7.936 7.936 0 0 0-.916-4.307z"
+  fill="#bc7add"></path>
+  <path data-name="opacity" d="M31 2v20.825a5 5 0 0 1-.523 2.227l-5.537 25.2a7.943 7.943 0 0 0-.844 4.98 8.175 8.175 0 0 0 8.043 6.758h-9.874a8.184 8.184 0 0 1-8.17-6.763 7.943 7.943 0 0 1 .844-4.98L20.04 40l6.437-14.95A5 5 0 0 0 27 22.82V1.994z"
+  fill="#000064" opacity=".16"></path>
+  <path data-name="opacity" d="M35 2.006v20.825a5 5 0 0 0 .523 2.227l5.537 25.2a7.943 7.943 0 0 1 .844 4.98A8.175 8.175 0 0 1 33.862 62h9.873a8.184 8.184 0 0 0 8.17-6.763 7.943 7.943 0 0 0-.844-4.98L45.96 40l-6.437-14.95A5 5 0 0 1 39 22.825V2z"
+  fill="#fff" opacity=".5"></path>
+  <circle data-name="opacity" cx="31" cy="19.994" r="2" fill="#fff"
+  opacity=".5"></circle>
+  <circle data-name="opacity" cx="35" cy="31.994" r="2" fill="#fff"
+  opacity=".5"></circle>
+  <circle data-name="opacity" cx="22" cy="47.994" r="2" fill="#fff"
+  opacity=".5"></circle>
+  <circle data-name="opacity" cx="38" cy="50.994" r="4" fill="#fff"
+  opacity=".5"></circle>
+  <circle data-name="stroke" cx="31" cy="19.994" r="2" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"
+  stroke-linejoin="round"></circle>
+  <circle data-name="stroke" cx="35" cy="31.994" r="2" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"
+  stroke-linejoin="round"></circle>
+  <circle data-name="stroke" cx="22" cy="47.994" r="2" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"
+  stroke-linejoin="round"></circle>
+  <circle data-name="stroke" cx="38" cy="50.994" r="4" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"
+  stroke-linejoin="round"></circle>
+  <path data-name="stroke" d="M47.962 40l-7.439-14.95A5 5 0 0 1 40 22.819V1.994H24V22.82a5 5 0 0 1-.523 2.227L16.04 40m37.024 10.251L47.962 40H16.04l-5.1 10.254a7.943 7.943 0 0 0-.844 4.98 8.184 8.184 0 0 0 8.17 6.764h27.443a8.2 8.2 0 0 0 8.271-7.44 7.936 7.936 0 0 0-.916-4.307zM21 1.994h22"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+</svg>

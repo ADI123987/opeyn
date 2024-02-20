@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Video Camera</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <rect data-name="layer2"
+  x="2" y="2" width="60" height="60" rx="10" ry="10" fill="#5edc89"></rect>
+  <path data-name="layer1" d="M40 28v-5.5a1.5 1.5 0 0 0-1.5-1.5h-23a1.5 1.5 0 0 0-1.5 1.5v19a1.5 1.5 0 0 0 1.5 1.5h23a1.5 1.5 0 0 0 1.5-1.5V36l12 5V23z"
+  fill="#fff"></path>
+  <path data-name="opacity" d="M15.5 43a1.5 1.5 0 0 1-1.5-1.5V25H9.5A1.5 1.5 0 0 0 8 26.5v19A1.5 1.5 0 0 0 9.5 47h23a1.5 1.5 0 0 0 1.5-1.5V43zM40 36v5.5a1.4 1.4 0 0 1-.3.8L46 45v-6.5z"
+  fill="#000064" opacity=".14"></path>
+  <path data-name="stroke" d="M40 41.5a1.5 1.5 0 0 1-1.5 1.5h-23a1.5 1.5 0 0 1-1.5-1.5v-19a1.5 1.5 0 0 1 1.5-1.5h23a1.5 1.5 0 0 1 1.5 1.5zM52 23v18l-12-5v-8l12-5z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <rect data-name="stroke" x="2" y="2" width="60" height="60" rx="10"
+  ry="10" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></rect>
+</svg>

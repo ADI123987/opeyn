@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Entrance</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M55 18.7A6.9 6.9 0 0 1 45.3 9l-7-7L2 38.3l7 7a6.9 6.9 0 0 1 9.7 9.7l7 7L62 25.7z"
+  fill="#78d1f4"></path>
+  <path data-name="opacity" d="M9 45.3a6.9 6.9 0 0 1 9.7 9.7l7 7 6.6-6.6L8.6 31.6 2 38.3z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" d="M55 18.7A6.9 6.9 0 0 1 45.3 9l-7-7L2 38.3l7 7a6.9 6.9 0 0 1 9.7 9.7l7 7L62 25.7zm-20.9-4.1l1.4 1.4m4.2 4.1l1.4 1.4m4.2 4.2l1.4 1.4m4.1 4.2l1.4 1.4m-40.4-1.4l1.4 1.4m4.1 4.2l1.4 1.4m4.2 4.2l1.4 1.4m4.2 4.1l1.4 1.4"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

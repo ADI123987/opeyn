@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Bank Check</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#c3d6f9" d="M37.3 24L18.6 42.7 10 46l3.3-8.6L26.7 24H2v34h60V24H37.3z"></path>
+  <path data-name="layer1" d="M48.9 12.4a3.8 3.8 0 0 0-5.3-5.3L13.2 37.4 10 46l8.6-3.3 30.3-30.3z"
+  fill="#78d1f4"></path>
+  <path data-name="opacity" d="M48.9 7.1a3.8 3.8 0 0 0-5.3 0L33.5 17.2l5.3 5.3 10.1-10.1a3.8 3.8 0 0 0 0-5.3zM13.8 44.5L11 52l8.6-3.2L44.3 24h-7L18.6 42.7l-4.8 1.8z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" d="M26.1 16.8l9.7-9.7a3.7 3.7 0 0 1 5.2 0l1.3 1.3m-8.9 8.8l5.4 5.3"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" d="M48.9 12.4a3.8 3.8 0 0 0-5.3-5.3L13.2 37.4 10 46l8.6-3.3 30.3-30.3z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M37.3 24H62v34H2V24h24.7M54 40H38.1M54 48H28.1"></path>
+</svg>

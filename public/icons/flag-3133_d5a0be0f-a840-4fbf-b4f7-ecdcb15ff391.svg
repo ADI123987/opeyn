@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Flag</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path d="M7.998 6.02H28v29.998H7.998z"
+  fill="#f27e7c" data-name="layer2"></path>
+  <path d="M28 14.02h28L42.002 28.019l13.998 16H20L28 36V14.02z"
+  fill="#f27e7c" data-name="layer2"></path>
+  <path d="M20 44.019l8-8h-8v8z" fill="#e05451" data-name="layer1"></path>
+  <path d="M33 14h-5v22h-8v8h.009L33 31.009V14z" opacity=".12" fill="#000064"
+  data-name="opacity"></path>
+  <path d="M7.998 6.02H28v29.999H7.998" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round" stroke="#2e4369" fill="none" data-name="stroke"></path>
+  <path d="M28 14.02h28L42.002 28.019l13.998 16H20v-8M8 2.021v60m20-26.002l-8 8"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369"
+  fill="none" data-name="stroke"></path>
+</svg>

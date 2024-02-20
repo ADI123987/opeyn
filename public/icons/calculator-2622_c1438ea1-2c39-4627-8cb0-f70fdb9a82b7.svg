@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Calculator</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <rect data-name="layer3"
+  x="10" y="2" width="44" height="60" rx="2" ry="2" fill="#7b8baf"></rect>
+  <path data-name="opacity" d="M16 58a2 2 0 0 1-2-2V2h-2a2 2 0 0 0-2 2v56a2 2 0 0 0 2 2h40a2 2 0 0 0 2-2v-2z"
+  fill="#000064" opacity=".15"></path>
+  <circle data-name="opacity" cx="21.5" cy="53.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="32" cy="53.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="42.5" cy="53.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="21.5" cy="42.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="32" cy="42.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="42.5" cy="42.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="21.5" cy="31.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="32" cy="31.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <circle data-name="opacity" cx="42.5" cy="31.5" r="1.5" fill="#000064"
+  opacity=".25"></circle>
+  <path data-name="layer2" fill="#c3d6f9" d="M16 8h32v14H16z"></path>
+  <path data-name="layer1" fill="#fff" d="M24 8l14 14h8L32 8h-8z"></path>
+  <rect data-name="stroke" x="10" y="2" width="44" height="60" rx="2"
+  ry="2" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></rect>
+  <circle data-name="stroke" cx="21.5" cy="53.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="32" cy="53.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="42.5" cy="53.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="21.5" cy="42.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="32" cy="42.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="42.5" cy="42.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="21.5" cy="31.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="32" cy="31.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="42.5" cy="31.5" r="1.5" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M16 8h32v14H16zm26 4v4"></path>
+</svg>

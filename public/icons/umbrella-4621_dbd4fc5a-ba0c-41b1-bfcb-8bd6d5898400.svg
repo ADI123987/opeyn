@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Umbrella</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M54.5 32a9.1 9.1 0 0 1 7.5 4 30 30 0 1 0-60 0 9 9 0 0 1 15 0 9 9 0 0 1 7.5-4 8.9 8.9 0 0 1 7.5 4 8.9 8.9 0 0 1 7.5-4 9.1 9.1 0 0 1 7.5 4 9 9 0 0 1 7.5-4z"
+  fill="#3b99ff"></path>
+  <path data-name="opacity" d="M32 6A30 30 0 0 0 2 36a9 9 0 0 1 15 0c0-16.6 6.7-30 15-30z"
+  fill="#000064" opacity=".1"></path>
+  <path data-name="opacity" d="M32 6c8.3 0 15 13.4 15 30a9 9 0 0 1 15 0A30 30 0 0 0 32 6z"
+  fill="#fff" opacity=".5"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M32 6V2m8 56a4 4 0 0 1-4 4 4 4 0 0 1-4-4V36M2 36a30 30 0 1 1 60 0M2 36a9 9 0 0 1 15 0m0 0a9 9 0 0 1 15 0m0 0a9 9 0 0 1 15 0m0 0a9 9 0 0 1 15 0"></path>
+</svg>

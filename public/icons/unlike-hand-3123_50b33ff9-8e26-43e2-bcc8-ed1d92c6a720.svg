@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Unlike Hand</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path d="M61 40.965l-16-2V6.967h16v33.998z"
+  fill="#b9daf0" data-name="layer3"></path>
+  <circle fill="#ffd000" r="1" cy="31" cx="53" data-name="layer2"></circle>
+  <path fill="#e8d4d4" d="M45 9h-2c-4 0-12-4-16-4H11a4 4 0 0 0 0 8H9a4 4 0 0 0 0 8H7a4 4 0 0 0 0 8H5a4 4 0 0 0 0 8h20a81.01 81.01 0 0 0-2 18 4 4 0 0 0 8 0s1.8-19.864 14-21.843z"
+  data-name="layer1"></path>
+  <path opacity=".15" data-name="opacity" d="M45 34v4.965l16 2v-5.082L45 34zm0-25h-2a13.062 13.062 0 0 1-3-.466V31c-9 3-11 19-11 23 0 3.506-4.607 3.171-5.747 2.361A3.991 3.991 0 0 0 31 55s1.8-19.864 14-21.843zM27 34H7c-3.233 0-5.136-1.3-5.756-2.33A3.957 3.957 0 0 0 1 33a4 4 0 0 0 4 4h19.75z"
+  fill="#000064"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M45 10h-2c-4 0-12-4-16-4H11a4 4 0 0 0 0 8H9a4 4 0 0 0 0 8H7a4 4 0 0 0 0 8m0 0H5a4 4 0 1 0 0 8h20a81.022 81.022 0 0 0-2 18 4 4 0 0 0 8 0s1.8-19.864 14-21.844m16 7.809l-16-2V7.967h16v33.998z"
+  data-name="stroke"></path>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="32" cx="53" data-name="stroke"></circle>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Vibrate Phone Silent</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M18 54a4 4 0 0 0 4 4h20a4 4 0 0 0 4-4v-8H18z" fill="#536897"></path>
+  <path data-name="layer3" fill="#a0d6ef" d="M18 14h28v32H18z"></path>
+  <path data-name="layer2" d="M46 10a4 4 0 0 0-4-4H22a4 4 0 0 0-4 4v4h28z"
+  fill="#536897"></path>
+  <path data-name="opacity" d="M23 54v-8h-5v8a4 4 0 0 0 4 4h5a4 4 0 0 1-4-4zm4-48h-5a4 4 0 0 0-4 4v4h5v-4a4 4 0 0 1 4-4z"
+  fill="#000064" opacity=".14"></path>
+  <circle data-name="layer1" cx="32" cy="52" r="1" fill="#8695b6"></circle>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M46 14h-1L18 41v5h4l24-24v-8zm0 18L32 46h14V32z"></path>
+  <rect data-name="stroke" x="18" y="6" width="28" height="52" rx="4"
+  ry="4" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></rect>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M18 14h28M18 46h28m6.5-24a22.1 22.1 0 0 1 0 16m-41 0a22.1 22.1 0 0 1 0-16m48-4a30.1 30.1 0 0 1 0 24m-55 0a30.1 30.1 0 0 1 0-24"
+  stroke-linejoin="round"></path>
+  <circle data-name="stroke" cx="32" cy="52" r="1" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></circle>
+</svg>

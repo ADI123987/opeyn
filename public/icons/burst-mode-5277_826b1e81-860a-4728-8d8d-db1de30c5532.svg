@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Burst Mode</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#eaeff8" d="M18 22h44v36H18z"></path>
+  <path data-name="layer1" fill="#eaeff8" d="M18 50h-8V14h44v8H18v28z"></path>
+  <path data-name="layer1" fill="#eaeff8" d="M46 14V6H2v36h8V14h36z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".14" d="M18 50h-8V14h44v8H18v28z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".25" d="M46 14V6H2v36h8V14h36z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M10 42H2V6h44v8" stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M18 50h-8V14h44v8" stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M18 22h44v36H18z" stroke-linejoin="round"></path>
+</svg>

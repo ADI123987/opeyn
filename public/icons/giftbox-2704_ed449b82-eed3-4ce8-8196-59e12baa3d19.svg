@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Giftbox</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#f27e7c" d="M24 22H4v12h20V22z"></path>
+  <path data-name="layer2" fill="#fc6" d="M24 22h16v12H24z"></path>
+  <path data-name="layer1" fill="#f27e7c" d="M40 22v12h20V22H40zM8 34h16v28H8z"></path>
+  <path data-name="layer2" fill="#fc6" d="M24 34h16v28H24z"></path>
+  <path data-name="layer1" fill="#f27e7c" d="M40 34h16v28H40z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M4 22h56v4H4z"></path>
+  <path data-name="opacity" opacity=".15" d="M8 34h48v7H8z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M56 34v28H8V34M4 22h56v12H4zm20 0v40m16-40v40M26.2 5A7.4 7.4 0 0 0 20 2a8 8 0 0 0-5.3 14c4.2 3.7 17.3 6 17.3 6 0-6-3.4-14.3-5.8-17zm11.6 0A7.4 7.4 0 0 1 44 2a8 8 0 0 1 5.3 14C45.1 19.7 32 22 32 22c0-6 3.4-14.3 5.8-17z"></path>
+</svg>

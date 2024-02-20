@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Coins</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#fc6" d="M9 62V52H5V42h4V32h20v10h4v10h-4v10H9z"></path>
+  <path data-name="layer1" fill="#fc6" d="M59 12V2H33v10h-4v10h4v10h-4v10h4v10h-4v10h26V52h4V42h-4V32h4V22h-4V12h4z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M41 12V2h-8v10h-4v10h4v10h-4v10h4v10h-4v10h8V52h4V42h-4V32h4V22h-4V12h4z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M59 12V2h-8v10h-4v10h4v10h-4v10h4v10h-4v10h8V52h4V42h-4V32h4V22h-4V12h4z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M9 62V52H5V42h4V32h8v10h-4v10h4v10m12-30v10h4v10h-4v10h-8V52h4V42h-4V32"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M29 52h26v10H29zm4 0V42h26v10h-4M33 42h-4V32h26v10M29 52H9v10h20m0-20H5v10h4m20-20H9v10m24-10V22h26v10h-4M33 22h-4V12h26v10M33 12V2h26v10h-4M17 32v10m-4 0v10m4 0v10m20-30v10m4 0v10m0-30v10m-4-20v10m4-20v10m-4 40v10"></path>
+</svg>

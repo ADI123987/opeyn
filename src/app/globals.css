@@ -2,32 +2,115 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
-}
-
-@media (prefers-color-scheme: dark) {
+@layer base {
   :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    --radius: 0.5rem;
+  }
+
+  * {
+    @apply border-border dark:border-slate-800;
+  }
+
+  address {
+    font-style: normal;
+  }
+
+  body {
+    @apply bg-background text-muted-foreground;
+  }
+
+  blockquote p {
+    @apply !m-0;
+  }
+
+  blockquote cite {
+    @apply text-xs;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply mb-6 font-bold leading-normal -tracking-[0.01em] text-foreground dark:text-white;
+  }
+
+  h1 {
+    @apply text-3xl sm:text-4xl;
+  }
+
+  h2 {
+    @apply text-2xl sm:text-3xl;
+  }
+
+  h3 {
+    @apply text-xl;
+  }
+
+  h4 {
+    @apply text-md;
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
-}
+@layer components {
+  .material-input:focus {
+    @apply ring-offset-transparent focus-visible:ring-0 focus-visible:ring-ring focus-visible:ring-offset-0;
+  }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  .material-input:focus ~ .material-input__underline {
+    width: 100%;
+  }
+
+  .material-input__underline {
+    position: relative;
+    display: block;
+    height: 2px;
+    width: 0;
+    bottom: 0;
+    position: absolute;
+    transition: 0.2s ease all;
+    @apply bg-primary;
+  }
+
+  .hover-shadow {
+    @apply relative top-0 shadow-sm transition-all duration-200 hover:-top-[.125rem] hover:shadow-lg hover:shadow-slate-500/20 dark:shadow-slate-850/20;
+  }
+
+  .testimonials-reversed > div:nth-child(even) {
+    @apply flex-row-reverse;
+  }
+  .testimonials-reversed > div:nth-child(even) .testimonials__content {
+    @apply ml-0 text-right md:mr-16;
+  }
+
+  .testimonials-slider .swiper-autoheight .swiper-slide {
+    height: 100%;
+  }
+
+  .swiper .swiper-pagination {
+    position: relative;
+  }
+
+  .swiper .swiper-pagination-bullets {
+    @apply mt-10;
+    --swiper-pagination-bottom: 0;
+  }
+
+  .swiper .swiper-pagination-bullet {
+    @apply hover:bg-primary;
+    --swiper-theme-color: theme("colors.primary.DEFAULT");
+    --swiper-pagination-bullet-inactive-color: theme("colors.border");
+    --swiper-pagination-bullet-inactive-opacity: 1;
+    --swiper-pagination-bullet-size: 14px;
+    --swiper-pagination-bullet-horizontal-gap: 6px;
+  }
+
+  .dark .swiper .swiper-pagination-bullet {
+    --swiper-pagination-bullet-inactive-color: theme("colors.slate.700");
+  }
+
+  .color-scheme-initial {
+    color-scheme: initial;
   }
 }

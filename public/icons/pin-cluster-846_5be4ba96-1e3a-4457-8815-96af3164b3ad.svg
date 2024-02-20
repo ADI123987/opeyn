@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Pin Cluster</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M60 24A16 16 0 0 0 39 8.8 19.9 19.9 0 0 1 44 22c0 7.8-3.7 16.3-8 23.4A89.6 89.6 0 0 0 44 56s16-17.6 16-32z"
+  fill="#d34545"></path>
+  <path data-name="layer2" d="M39 8.8A20 20 0 0 0 4 22c0 18 20 40 20 40a112.8 112.8 0 0 0 12-16.6c4.2-7.2 8-15.7 8-23.4a19.9 19.9 0 0 0-5-13.2zM24 30a8 8 0 1 1 8-8 8 8 0 0 1-8 8z"
+  fill="#f26161"></path>
+  <path data-name="layer1" d="M14.5 4.4A20 20 0 0 0 4 22c0 18 20 40 20 40l2.3-2.8C22.9 55.3 7 36.1 7 20a20 20 0 0 1 7.5-15.6z"
+  fill="#d34545"></path>
+  <path data-name="stroke" d="M24 2A20 20 0 0 0 4 22c0 18 20 40 20 40s20-22 20-40A20 20 0 0 0 24 2z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="24" cy="22" r="8" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" d="M36 45.4A89.6 89.6 0 0 0 44 56s16-17.6 16-32A16 16 0 0 0 39 8.8"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

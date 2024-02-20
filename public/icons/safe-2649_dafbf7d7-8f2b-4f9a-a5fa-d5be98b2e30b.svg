@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Safe</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <rect data-name="layer2"
+  x="2" y="2" width="60" height="56" rx="3" ry="3" fill="#8fa9d8"></rect>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M10 14H6v39h44v-3H10V14z"></path>
+  <circle data-name="layer1" cx="34" cy="30" r="12" fill="#efbc8b"></circle>
+  <path data-name="opacity" d="M22 30a11.9 11.9 0 0 1 1.8-6.2 12 12 0 1 0 16.4 16.4A12 12 0 0 1 22 30z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="opacity" d="M34 32l-1-2H22a11.9 11.9 0 0 0 1.1 5H32c2 0 2-3 2-3z"
+  fill="#000064" opacity=".15"></path>
+  <rect data-name="stroke" x="2" y="2" width="60" height="56" rx="3"
+  ry="3" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></rect>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M10 58v4m44-4v4M10 10h44v40H10zM8 20h4M8 40h4m10-10a12 12 0 1 1 1.6 6"></path>
+  <circle data-name="stroke" cx="34" cy="30" r="2" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M34 30H18"></path>
+</svg>

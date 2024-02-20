@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Binocular</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer3"
+  cx="15" cy="42" r="13" fill="#78d1f4"></circle>
+  <circle data-name="layer3" cx="49" cy="42" r="13" fill="#78d1f4"></circle>
+  <path data-name="opacity" d="M15 29a13 13 0 0 0-11.7 7.4 13 13 0 0 1 21.4 14.2A13 13 0 0 0 15 29zm32 3a13 13 0 0 1 11.7 18.6 13 13 0 1 0-21.4-14.2A13 13 0 0 1 47 32z"
+  fill="#000028" opacity=".15"></path>
+  <path data-name="layer2" d="M20.4 9a7.7 7.7 0 0 0-6.7 4.1L3 36.9A13 13 0 0 1 27.9 42V16.5A7.5 7.5 0 0 0 20.4 9zm28.5 20a13 13 0 0 1 11.9 7.9L50.1 13.1A7.7 7.7 0 0 0 43.4 9a7.5 7.5 0 0 0-7.5 7.5V42a13 13 0 0 1 13-13z"
+  fill="#7b8baf"></path>
+  <path data-name="layer1" d="M35.9 17.8a10 10 0 0 0-7.9 0v12a10 10 0 0 1 7.9 0z"
+  fill="#536897"></path>
+  <path data-name="opacity" d="M50.1 13.1A7.9 7.9 0 0 0 46 9.5l7.1 20.2a13 13 0 0 1 7.7 7.2z"
+  fill="#fff" opacity=".25"></path>
+  <circle data-name="stroke" cx="15" cy="42" r="13" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" d="M22 42a7 7 0 0 1-7 7m41-7a7 7 0 0 1-7 7"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="49" cy="42" r="13" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" d="M28 42V16.5A7.5 7.5 0 0 0 20.5 9a7.7 7.7 0 0 0-6.7 4.1l-.3.6L3 37m33 5V16.5A7.5 7.5 0 0 1 43.5 9a7.7 7.7 0 0 1 6.7 4.1l.3.6L61 37M28 17.8a10 10 0 0 1 7.9 0m-7.9 12a10 10 0 0 1 7.9 0"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

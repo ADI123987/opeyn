@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Checkout Cart</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <circle data-name="layer3"
+  cx="20" cy="54" r="4" fill="#a6b1c9"></circle>
+  <circle data-name="layer3" cx="46" cy="54" r="4" fill="#a6b1c9"></circle>
+  <circle data-name="layer2" cx="46" cy="22" r="16" fill="#44d88d"></circle>
+  <path data-name="layer1" d="M30 22H12l6 24h32l3.2-9.7A16 16 0 0 1 30 22z"
+  fill="#c3d6f9"></path>
+  <path data-name="opacity" d="M53.2 36.3A16 16 0 0 1 30 22h-3.5a16 16 0 0 0 26.2 15.9l.5-1.6z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M30 22H12M2 6h6l10 40h32l3.2-9.7"></path>
+  <circle data-name="stroke" cx="20" cy="54" r="4" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="46" cy="54" r="4" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <circle data-name="stroke" cx="46" cy="22" r="16" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M53 18l-8 9-5-5"></path>
+</svg>

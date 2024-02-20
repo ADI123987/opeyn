@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>User Address</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M51 27.5a11.1 11.1 0 0 0-11 11.2 11.7 11.7 0 0 0 .1 1.4c1 9.3 10.9 21.4 10.9 21.4s9.9-12.1 10.9-21.4a11.7 11.7 0 0 0 .1-1.4 11.1 11.1 0 0 0-11-11.2zm0 14a3 3 0 1 1 3-3 3 3 0 0 1-3 3z"
+  fill="#f27e7c"></path>
+  <path data-name="layer1" d="M40.3 41.7c-7.8-1.6-8.3-3.6-8.3-5.1v-2a14.1 14.1 0 0 0 4-7c2.5 0 4-3 4-6 0-.8 0-4-2-4 5-14.5-9.6-20-20-13-4.4 0-5.6 6.6-4 13-2 0-2 3.2-2 4 0 3 1.5 6 4 6a13.7 13.7 0 0 0 4 7v2c0 1.6-.5 3.6-8.6 5.2S2 50.5 2 50.5h41.7a33.8 33.8 0 0 1-3.4-8.8z"
+  fill="#a5d0ec"></path>
+  <path data-name="opacity" d="M43.7 50.5a33.8 33.8 0 0 1-3.4-8.8 32.1 32.1 0 0 1-4.1-1.1 11.4 11.4 0 0 0-.2 2.1 11.7 11.7 0 0 0 .1 1.4 23.9 23.9 0 0 0 1.8 6.4h5.9zM20 27.5c.8 3 4.1 5.3 6 7v2c0 1.6-.5 3.6-8.6 5.2S8 50.5 8 50.5H2s0-7 9.4-8.8 8.6-3.6 8.6-5.2v-2a13.6 13.6 0 0 1-4-7c-2.5 0-4-3-4-6 0-.8 0-4 2-4-1.6-6.4-.4-13 4-13a16.7 16.7 0 0 1 12.5-2.7A17.8 17.8 0 0 0 24 4.5c-4.4 0-7.6 6.6-6 13 0 0-1 8 2 10z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" d="M40.3 42.7c-7.8-1.6-8.3-3.6-8.3-5.1v-2a14.1 14.1 0 0 0 4-7c2.5 0 4-3 4-6 0-.8 0-4-2-4 5-14.5-9.6-20-20-13-4.4 0-5.6 6.6-4 13-2 0-2 3.2-2 4 0 3 1.5 6 4 6a14.2 14.2 0 0 0 4 7v2c0 1.6-.5 3.6-8.6 5.2S2 51.5 2 51.5h41.7"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" d="M61.9 41.1a11.7 11.7 0 0 0 .1-1.4 11 11 0 1 0-22 0 11.7 11.7 0 0 0 .1 1.4c1 9.3 10.9 21.4 10.9 21.4s9.9-12.1 10.9-21.4z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="51" cy="39.5" r="3" fill="none"
+  stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+</svg>

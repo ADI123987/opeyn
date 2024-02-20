@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Power Cord</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M9.1 31.6l9.6 8.6c3.3 3.3 8.7 4.3 12 1l5-5a8.6 8.6 0 0 0 0-12L26 14z"
+  fill="#8fa9d8"></path>
+  <path data-name="opacity" d="M9 31.6l9.6 8.6c3.3 3.3 8.7 4.3 12 1l3-3.1a8.4 8.4 0 0 1-11.8-.1l-9.6-9.6"
+  fill="#000064" opacity=".14"></path>
+  <path data-name="layer1" fill="#7b8baf" d="M35.9 35.9l5.7 5.7-5.7 5.7-5.6-5.7"></path>
+  <path data-name="opacity" fill="#000064" opacity=".14" d="M35.6 35.9L30 41.6l2.5 2.5 5.7-5.7-2.6-2.5z"></path>
+  <path data-name="stroke" d="M26 14.1l9.6 9.6a8.6 8.6 0 0 1 0 12l-5 5a8.4 8.4 0 0 1-12 0l-9.5-9.5m-2.3 2.3l21.5-21.7m7.6 23.7l5.7 5.7-5.7 5.7-5.6-5.7M11.9 28.4L2 18.4M23.2 17L13.3 7"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" d="M62 38.9l-3.3-3.3a5 5 0 0 0-7.1 0 5.1 5.1 0 0 0 0 7.1l5.7 5.7a5.1 5.1 0 0 1 0 7.1 5 5 0 0 1-7.1 0L38.8 44"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

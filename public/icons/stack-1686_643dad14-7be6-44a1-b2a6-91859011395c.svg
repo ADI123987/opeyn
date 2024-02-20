@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Stack</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#dde5f4" d="M18.3 39.5l-14 7.4 27.8 14.7 27.7-14.7-14-7.4"></path>
+  <path data-name="opacity" fill="#000028" opacity=".16" d="M32.1 46.7l-13.8-7.2-6.6 3.5 20.4 10.7L52.4 43l-6.6-3.5-13.7 7.2z"></path>
+  <path data-name="layer2" fill="#dde5f4" d="M45.6 24.5H18.5L4.3 32l14 7.5 13.8 7.2 13.7-7.2 14-7.5-14.2-7.5z"></path>
+  <path data-name="opacity" fill="#000028" opacity=".16" d="M31.9 31.7l-13.5-7.1-6.6 3.5 20.1 10.6 20.2-10.6-6.6-3.5-13.6 7.1z"></path>
+  <path data-name="layer1" fill="#fff" d="M31.9 2.3L4.2 17l14.2 7.6 13.5 7.1 13.6-7.1L59.7 17 31.9 2.3z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M31.9 2.3L4.2 17l27.7 14.7L59.7 17 31.9 2.3z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M18.4 24.6L4.2 32.1l27.7 14.7 27.8-14.7-14.2-7.5"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M18.2 39.6L4.2 47l27.7 14.7L59.7 47l-14-7.4"></path>
+</svg>

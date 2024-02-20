@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Luxury</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path d="M31 57L1 24l8-13h44l8 13-30 33z"
+  fill="#c2eaff" data-name="layer1"></path>
+  <path d="M44 24L31 57 18 24h26zM31 11L18 24 9 11h22z" opacity=".5"
+  fill="#fff" data-name="opacity"></path>
+  <path d="M31 11L18 24h26L31 11zm0 46L1 24h17l13 33z" opacity=".2"
+  data-name="opacity"></path>
+  <path d="M44 24l9-13 8 13H44z" opacity=".5" fill="#fff" data-name="opacity"></path>
+  <path d="M1 24h60M9 11l9 13 13-13 13 13 9-13M18 24l13 33 13-33"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369"
+  fill="none" data-name="stroke"></path>
+  <path d="M31 57L1 24l8-13h44l8 13-30 33z" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round" stroke="#2e4369" fill="none" data-name="stroke"></path>
+</svg>

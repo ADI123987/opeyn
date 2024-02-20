@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Pen Tool</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M38.3 13.8c-5.2 5.2-10 8-24.2 8C11.6 32.2 5.7 52.3 2 62c9.7-3.7 29.7-9.6 40.2-12.1 0-14.2 2.7-19 8-24.2"
+  fill="#bacae9"></path>
+  <path data-name="opacity" d="M50.1 25.7L38.3 13.8l-2.5 2.3 6 6L2 62c9.7-3.7 29.7-9.6 40.2-12.1 0-14.2 2.7-19 7.9-24.2z"
+  fill="#000028" opacity=".2"></path>
+  <path data-name="layer1" fill="#7b8baf" d="M62 19.3L44.8 2l-8 10.3 14.9 15 10.3-8z"></path>
+  <circle data-name="layer1" cx="28.7" cy="35.3" r="3.5" transform="rotate(-45 28.637 35.338)"
+  fill="#7b8baf"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M62 19.3L44.8 2l-8 10.3 14.9 15 10.3-8z"></path>
+  <circle data-name="stroke" cx="28.7" cy="35.3" r="3.5" transform="rotate(-45 28.637 35.338)"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></circle>
+  <path data-name="stroke" d="M38.3 13.8c-5.2 5.2-10 8-24.2 8C11.6 32.2 5.7 52.3 2 62c9.7-3.7 29.7-9.6 40.2-12.1 0-14.2 2.7-19 8-24.2m-24 12.1L2 62"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

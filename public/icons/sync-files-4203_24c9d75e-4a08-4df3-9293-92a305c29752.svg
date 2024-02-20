@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Sync Files</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#ebf5ff" d="M24 14V2H6v40h30V14H24z"></path>
+  <path data-name="layer2" fill="#fff" d="M36 14L24 2v12h12zm22 18L46 20v12h12z"></path>
+  <path data-name="layer1" fill="#ebf5ff" d="M46 32V20H36v22h-8v18h30V32H46z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M46 32V20H36v22h-8v18h30V32H46z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M21 2v16h15v-4H24V2h-3z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M28 42v18h30V32L46 20H36" stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M46 20v12h12M24 2H6v40h30V14L24 2z"
+  stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M24 2v12h12M20 56H10a4 4 0 0 1-4-4v-2"
+  stroke-linejoin="round"></path>
+  <path data-name="stroke" d="M15 51l5 5-5 5M44 8h10a4 4 0 0 1 4 4v2"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="stroke" d="M49 13l-5-5 5-5" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></path>
+</svg>

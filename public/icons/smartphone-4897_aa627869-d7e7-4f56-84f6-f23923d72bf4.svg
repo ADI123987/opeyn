@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Smartphone</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M15 58a4 4 0 0 0 4 4h26a4 4 0 0 0 4-4V48H15zM49 6a4 4 0 0 0-4-4H19a4 4 0 0 0-4 4v4h34z"
+  fill="#536897"></path>
+  <path data-name="opacity" d="M20 58V48h-5v10a4 4 0 0 0 4 4h5a4 4 0 0 1-4-4zm4-56h-5a4 4 0 0 0-4 4v4h5V6a4 4 0 0 1 4-4z"
+  fill="#000064" opacity=".14"></path>
+  <path data-name="layer2" fill="#a0d6ef" d="M15 10h34v38H15z"></path>
+  <circle data-name="layer1" cx="32" cy="55" r="2" fill="#7b8baf"></circle>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M49 26.5L27.5 48H49V26.5zM49 10h-6L15 38v10l34-34v-4z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M15 10h34M15 48h34" stroke-linejoin="round"></path>
+  <rect data-name="stroke" x="15" y="2" width="34" height="60" rx="4"
+  ry="4" fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></rect>
+  <circle data-name="stroke" cx="32" cy="55" r="2" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></circle>
+</svg>

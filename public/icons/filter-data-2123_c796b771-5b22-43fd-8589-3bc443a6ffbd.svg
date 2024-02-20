@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Filter Data</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="#f27e7c" d="M2 6h60L38 32v20l-12 6V32L2 6z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".4" d="M34 32L58 6h-8L34 32z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".14" d="M30 56V32L10 6H2l24 26v26l4-2z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M2 6h60L38 32v20l-12 6V32L2 6z"></path>
+</svg>

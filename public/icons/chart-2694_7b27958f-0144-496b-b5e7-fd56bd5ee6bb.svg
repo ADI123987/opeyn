@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Chart</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M32 27l8 7.5 9 8.5v10.5c7.9-3.6 13-9.6 13-16.5V27z" fill="#f45d5d"></path>
+  <path data-name="layer2" d="M32 7C15.4 7 2 16 2 27v10c0 11 13.4 20 30 20a41 41 0 0 0 17-3.5V43l-9-8.5-8-7.5h1V7z"
+  fill="#44d88d"></path>
+  <path data-name="layer1" d="M32 7v20h30C62 16.2 49 7 32 7z" fill="#fc6"></path>
+  <path data-name="opacity" d="M49 43.5A41 41 0 0 1 32 47C15.4 47 2 38 2 27v10c0 11 13.4 20 30 20a41 41 0 0 0 17-3.5c7.9-3.6 13-9.6 13-16.5V27c0 6.8-5.1 12.9-13 16.5z"
+  fill="#000064" opacity=".15"></path>
+  <path data-name="stroke" d="M32 47C15.4 47 2 38 2 27v10c0 11 13.4 20 30 20a41 41 0 0 0 17-3.5v-10A41 41 0 0 1 32 47z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" d="M62 27C62 16 48.6 7 32 7S2 16 2 27s13.4 20 30 20a41 41 0 0 0 17-3.5V43M32 27V7v20"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" d="M49 43.5v10c7.9-3.6 13-9.6 13-16.5V27c0 6.8-5.1 12.9-13 16.5z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <path data-name="stroke" d="M49 43v.5c7.9-3.6 13-9.6 13-16.5H32l8 7.5z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+</svg>

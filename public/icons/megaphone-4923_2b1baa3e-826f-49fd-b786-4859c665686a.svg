@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Megaphone</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M56 34a6 6 0 1 0 0-12zM8 18a6 6 0 0 0-6 6v8a6 6 0 0 0 6 6h12V18z" fill="#ed5858"></path>
+  <path data-name="layer1" d="M26 18h-6v20h6a50.4 50.4 0 0 1 30 10V8a55 55 0 0 1-30 10z"
+  fill="#fff6e3"></path>
+  <path data-name="opacity" d="M22 31H8a6 6 0 0 1-6-6v7a6 6 0 0 0 6 6h18a50.4 50.4 0 0 1 30 10v-7a50.4 50.4 0 0 0-30-10zm34-9v12a6 6 0 0 0 3-.8V22.8a6 6 0 0 0-3-.8z"
+  fill="#000064" opacity=".14"></path>
+  <path data-name="stroke" d="M20 38c0 6 0 14 10 18M20 18v20m36-4a6 6 0 1 0 0-12"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="stroke" d="M22 38H8a6 6 0 0 1-6-6v-8a6 6 0 0 1 6-6h18A55 55 0 0 0 56 8v40a50.4 50.4 0 0 0-30-10z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+</svg>

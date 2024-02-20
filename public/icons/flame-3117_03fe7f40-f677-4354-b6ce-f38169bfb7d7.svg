@@ -1,0 +1,16 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Flame</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path fill="#f2605c"
+  d="M49 13c-6.941 6.11-6 16-6 16S32.82 13.492 37 1c-4.082 8.425-22 10.59-14 34-10.125-3.824-10-16-10-16s-6 6-6 18a24 24 0 0 0 48 0c0-12.16-8.691-12.141-6-24z"
+  data-name="layer2"></path>
+  <path fill="#f2a40e" d="M32 61c-8 0-16-7-16-18 1 5 9 5 11 6s-4-11 5-20c-5 6 6 13 7 17 1-6 3-9 3-9s9 24-10 24z"
+  data-name="layer1"></path>
+  <path fill="none" d="M37 0c-4 9-3 23 1 32s4 22-2 26c0-6-5-13-5-13s-8 16 1 16 10 9 16-2 5-22 2-28-4-15 0-20 4-19 4-19z"></path>
+  <path opacity=".25" fill="#fff" d="M51.628 49.266C53.212 41.87 52.1 35.205 50 31c-2.571-5.142-3.662-12.478-1.408-17.621C42.1 19.51 43 29 43 29S32.82 13.492 37 1a9.894 9.894 0 0 1-.943 1.546C33.217 11.483 34.359 23.807 38 32c4 9 4 22-2 26 0-6-5-13-5-13s-7.8 15.608.7 15.982a23.983 23.983 0 0 0 19.928-11.716z"
+  data-name="opacity"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M49 13c-6.941 6.11-6 16-6 16S32.82 13.492 37 1c-4.082 8.425-22 10.59-14 34-10.125-3.824-10-16-10-16s-6 6-6 18a24 24 0 0 0 48 0c0-12.16-8.691-12.141-6-24z"
+  data-name="stroke"></path>
+</svg>

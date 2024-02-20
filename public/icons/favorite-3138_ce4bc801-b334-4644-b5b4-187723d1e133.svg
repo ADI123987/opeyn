@@ -1,0 +1,12 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Favorite</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path d="M1 5h60v14H1z"
+  fill="#f27e7c" data-name="layer2"></path>
+  <path d="M1 19h60v40H1z" fill="#fff" data-name="layer1"></path>
+  <path d="M7 56V5H1v54h60v-3H7z" opacity=".15" fill="#000064" data-name="opacity"></path>
+  <path d="M1 5h60v54H1zm0 14h60M20.998 5v14m20-14v14m-9.99 10v20.002m-10.002-10h20.002"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369"
+  fill="none" data-name="stroke"></path>
+</svg>

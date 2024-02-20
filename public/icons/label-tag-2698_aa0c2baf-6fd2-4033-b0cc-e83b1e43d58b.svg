@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Label Tag</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  d="M59.6 4.4L38.4 3 3 38.4 25.6 61 61 25.6zM48 19a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"
+  fill="#ffd879"></path>
+  <path data-name="opacity" fill="#000064" opacity=".15" d="M41.2 3.2L38.4 3 3 38.4 25.6 61l3.5-3.5L8 36.4 41.2 3.2z"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M25.6 61L3 38.4 38.4 3l21.2 1.4L61 25.6 25.6 61z"></path>
+  <circle data-name="stroke" cx="48" cy="15" r="4" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M31.3 21.4l11.3 11.3m-22.6 0l8.5 8.5M25.6 27l5.7 5.7"></path>
+</svg>

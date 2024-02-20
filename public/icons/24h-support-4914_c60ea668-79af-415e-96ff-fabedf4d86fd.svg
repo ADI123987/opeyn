@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>24h Support</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M12 44H7.6A3.6 3.6 0 0 1 4 40.4V29.6A3.6 3.6 0 0 1 7.6 26H12zm40 0h4.4a3.6 3.6 0 0 0 3.6-3.6V29.6a3.6 3.6 0 0 0-3.6-3.6H52z"
+  fill="#5edc89"></path>
+  <path data-name="opacity" d="M4 34.4v6A3.6 3.6 0 0 0 7.6 44H12v-6H7.6A3.6 3.6 0 0 1 4 34.4zM56.4 38H52v6h4.4a3.6 3.6 0 0 0 3.6-3.6v-6a3.6 3.6 0 0 1-3.6 3.6z"
+  fill="#000064" opacity=".14"></path>
+  <path data-name="layer1" d="M40 58a4 4 0 0 0-4-4h-4a4 4 0 0 0-4 4 4 4 0 0 0 4 4h4a4 4 0 0 0 4-4z"
+  fill="#536897"></path>
+  <path data-name="opacity" d="M37 59h-4a4 4 0 0 1-4-3.7 4 4 0 0 0 3 6.7h4a4 4 0 0 0 4-4v-.3a4 4 0 0 1-3 1.3z"
+  fill="#000064" opacity=".14"></path>
+  <path data-name="stroke" d="M10 44H7.6A3.6 3.6 0 0 1 4 40.4V29.6A3.6 3.6 0 0 1 7.6 26H12m40 18h4.4a3.6 3.6 0 0 0 3.6-3.6V29.6a3.6 3.6 0 0 0-3.6-3.6H52m-40 0v-4c0-11 8-20 19-20h2c11 0 19 9 19 20v4M40 58a4 4 0 0 0-4-4h-4a4 4 0 0 0-4 4 4 4 0 0 0 4 4h4a4 4 0 0 0 4-4zm0 0s12 0 12-14"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M40 24l-6 14h14m-4-6v12m-14 0H18l8.5-10v-.2a6 6 0 0 0-8.5-8.2"
+  stroke-linejoin="round"></path>
+</svg>

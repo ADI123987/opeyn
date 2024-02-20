@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Email</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer4"
+  fill="#fff4e3" d="M28 18h34v22H28z"></path>
+  <path data-name="layer3" fill="#a0d6ef" d="M28 18h8v-8H2v38h34v-8h-8V18z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".14" d="M28 40V22h-5v22h13v-4h-8z"></path>
+  <path data-name="layer2" d="M2 58a4 4 0 0 0 4 4h26a4 4 0 0 0 4-4V48H2zM36 6a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v4h34z"
+  fill="#536897"></path>
+  <path data-name="opacity" d="M7 58V48H2v10a4 4 0 0 0 4 4h5a4 4 0 0 1-4-4zm4-56H6a4 4 0 0 0-4 4v4h5V6a4 4 0 0 1 4-4z"
+  fill="#000064" opacity=".14"></path>
+  <circle data-name="layer1" cx="19" cy="55" r="1" fill="#7b8baf"></circle>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M23 39.5L14.5 48H36v-4H23v-4.5zM28 22v-4h4l4-4v-4h-6L2 38v10l21-21v-5h5z"></path>
+  <path data-name="opacity" fill="#000064" opacity=".2" d="M28 18l17 14 17-14v1L45 37 28 20v-2z"></path>
+  <path data-name="stroke" d="M36 48v10a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V6a4 4 0 0 1 4-4h26a4 4 0 0 1 4 4v4M2 10h34M2 48h34"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M28 18h34v22H28z" stroke-linejoin="round"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-miterlimit="10" stroke-width="2" d="M28 18l17 14 17-14" stroke-linejoin="round"></path>
+  <circle data-name="stroke" cx="19" cy="55" r="1" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" stroke-linejoin="round"></circle>
+</svg>

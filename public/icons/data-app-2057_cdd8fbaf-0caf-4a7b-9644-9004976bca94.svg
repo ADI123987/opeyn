@@ -1,0 +1,34 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Data App</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path fill="#78d1f4"
+  d="M57.258 21c.471-1 .744-1.25.744-1.894 0-2.209-3.135-4.053-7-4.053a10.687 10.687 0 0 0-4.314.827v-.015l-9.261-4.328A3.2 3.2 0 0 0 39 9c0-2.208-3.133-4-7-4s-7 1.791-7 4a3.312 3.312 0 0 0 1.579 2.6L17.316 16c-1.19-1-2.685-.927-4.314-.927-3.865 0-7 1.862-7 4.07 0 .643.272.857.744 1.857L2 23v22l30.082 14L62 45V23z"
+  data-name="layer1"></path>
+  <ellipse opacity=".15" fill="#fff" ry="4" rx="7" cy="19" cx="13"
+  data-name="opacity"></ellipse>
+  <ellipse opacity=".15" fill="#fff" ry="4" rx="7" cy="25" cx="32"
+  data-name="opacity"></ellipse>
+  <ellipse opacity=".15" fill="#fff" ry="4" rx="7" cy="9" cx="32"
+  data-name="opacity"></ellipse>
+  <ellipse opacity=".15" fill="#fff" ry="4" rx="7" cy="19" cx="51"
+  data-name="opacity"></ellipse>
+  <path opacity=".15" fill="#000064" d="M6.944 21A2.826 2.826 0 0 0 6 23c0 2.209 3.135 4 7 4s7-1.791 7-4a2.826 2.826 0 0 0-.944-2A8.853 8.853 0 0 1 13 23a8.853 8.853 0 0 1-6.056-2zm19 6A2.826 2.826 0 0 0 25 29c0 2.209 3.133 4 7 4s7-1.791 7-4a2.826 2.826 0 0 0-.944-2A8.85 8.85 0 0 1 32 29a8.85 8.85 0 0 1-6.056-2zm0-16A2.826 2.826 0 0 0 25 13c0 2.209 3.133 4 7 4s7-1.791 7-4a2.826 2.826 0 0 0-.944-2A8.85 8.85 0 0 1 32 13a8.85 8.85 0 0 1-6.056-2zm31.112 10A8.851 8.851 0 0 1 51 23a8.849 8.849 0 0 1-6.056-2A2.826 2.826 0 0 0 44 23c0 2.209 3.133 4 7 4s7-1.791 7-4a2.826 2.826 0 0 0-.944-2z"
+  data-name="opacity"></path>
+  <path d="M2 23v22l30 13.962V37.048L2 23z" opacity=".15" fill="#000064"
+  data-name="opacity"></path>
+  <path d="M2 23v22l30.082 14L62 45V23L32 37.048 2 23zm30 14.048V59"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369"
+  fill="none" data-name="stroke"></path>
+  <ellipse stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" ry="4" rx="7" cy="19" cx="13" data-name="stroke"></ellipse>
+  <ellipse stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" ry="4" rx="7" cy="25" cx="32" data-name="stroke"></ellipse>
+  <ellipse stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" ry="4" rx="7" cy="9" cx="32" data-name="stroke"></ellipse>
+  <ellipse stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" ry="4" rx="7" cy="19" cx="51" data-name="stroke"></ellipse>
+  <path d="M57.34 20.826L62 23M37.461 11.549l9.147 4.268m-29.234.01l9.178-4.285M2 23l4.742-2.213"
+  stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="#2e4369"
+  fill="none" data-name="stroke"></path>
+</svg>

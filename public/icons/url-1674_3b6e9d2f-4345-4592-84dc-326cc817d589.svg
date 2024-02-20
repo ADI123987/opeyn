@@ -1,0 +1,26 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Url</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path fill="#92b5e4"
+  d="M37.273 26.729a12.428 12.428 0 0 0-17.575 0L5.64 40.787a12.427 12.427 0 0 0 17.573 17.574L37.273 44.3a12.4 12.4 0 0 0 2.783-4.246l.757-6.11a12.379 12.379 0 0 0-3.54-7.215zm-3.349 14.079a4.333 4.333 0 0 1-.163.169L19.9 54.844A7.595 7.595 0 0 1 9.155 44.1l13.867-13.862a7.594 7.594 0 0 1 12.955 5.736z"
+  data-name="layer1"></path>
+  <path opacity=".15" fill="#000028" d="M40.056 40.056l.279-2.247-.727.728a7.568 7.568 0 0 1-5.656 2.21l-.027.062a4.333 4.333 0 0 1-.163.169l-3.929 3.931a12.458 12.458 0 0 0 6.212.622l1.228-1.231a12.4 12.4 0 0 0 2.783-4.244z"
+  data-name="opacity"></path>
+  <path fill="#92b5e4" d="M58.36 5.641a12.424 12.424 0 0 0-17.574 0L26.728 19.7a12.381 12.381 0 0 0-2.784 4.246l-.753 6.132a12.427 12.427 0 0 0 21.111 7.2L58.36 23.213a12.424 12.424 0 0 0 0-17.572zm-3.513 14.251L40.981 33.758a7.595 7.595 0 0 1-12.956-5.735l2.051-4.833c.054-.058.108-.116.165-.172L44.107 9.153a7.594 7.594 0 0 1 10.74 10.739z"
+  data-name="layer1"></path>
+  <path opacity=".15" fill="#000028" d="M24.86 34.879l.194-.193a7.54 7.54 0 0 1 4.214-2.127 7.592 7.592 0 0 1-1.243-4.536l.109-.257a12.356 12.356 0 0 0-4.927 2.164l-.017.145a12.327 12.327 0 0 0 1.67 4.804z"
+  data-name="opacity"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M40.813 33.946A12.428 12.428 0 0 0 19.7 26.728L5.64 40.787a12.427 12.427 0 0 0 17.573 17.574L37.273 44.3a12.4 12.4 0 0 0 2.783-4.246"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M33.924 40.808a4.333 4.333 0 0 1-.163.169L19.9 54.844A7.595 7.595 0 0 1 9.155 44.1l13.867-13.862a7.594 7.594 0 0 1 12.955 5.736"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M23.191 30.076a12.427 12.427 0 0 0 21.111 7.2L58.36 23.213A12.426 12.426 0 0 0 40.787 5.64L26.728 19.7a12.38 12.38 0 0 0-2.784 4.246"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M30.076 23.19c.054-.058.108-.116.165-.172L44.107 9.153a7.594 7.594 0 0 1 10.74 10.739L40.981 33.758a7.595 7.595 0 0 1-12.956-5.735"
+  data-name="stroke"></path>
+</svg>

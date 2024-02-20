@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Like Hand</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path d="M1 58l16-2.001V24.001H1V58z"
+  fill="#b9daf0" data-name="layer3"></path>
+  <circle fill="#ffc569" r="1" cy="48" cx="9" data-name="layer2"></circle>
+  <path fill="#e8d4d4" d="M55 32h2a4 4 0 0 0 0-8H37a81.087 81.087 0 0 0 2-18 4 4 0 0 0-8 0s-1.8 19.863-14 21.844V52h2c4 0 12 4 16 4h16a4 4 0 0 0 0-8h2a4 4 0 0 0 0-8h2a4 4 0 0 0 0-8"
+  data-name="layer1"></path>
+  <path opacity=".15" data-name="opacity" d="M4 24H1v34l16-2.001V51L4 52V24zm50.928 27.3C54.583 52.191 52.8 53 51 53H37q-6 0-9-3c-2-2-7-2-7-2V29C34.606 23.169 32.156 7.9 32.007 3.369A3.965 3.965 0 0 0 31 6s-1.8 19.863-14 21.843V52h2c.116 0 .251.019.374.026.3.016.619.051.953.1.2.031.4.059.606.1C25.2 53.064 31.57 56 35 56h16a3.956 3.956 0 0 0 3.93-4.7z"
+  fill="#000064"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M17 52h2c4 0 12 4 16 4h16a4 4 0 0 0 0-8h2a4 4 0 0 0 0-8h2a4 4 0 0 0 0-8m0 0h2a4 4 0 0 0 0-8H37a81.087 81.087 0 0 0 2-18 4 4 0 0 0-8 0s-1.8 19.863-14 21.844M1 58l16-2.001V24.001H1V58z"
+  data-name="stroke"></path>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="48" cx="9" data-name="stroke"></circle>
+</svg>

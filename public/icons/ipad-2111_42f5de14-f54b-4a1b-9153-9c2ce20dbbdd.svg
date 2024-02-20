@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>iPad</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M54 4a2 2 0 0 0-2-2H12a2 2 0 0 0-2 2v6h44zM10 50v10a2 2 0 0 0 2 2h40a2 2 0 0 0 2-2V50z"
+  fill="#536897"></path>
+  <path data-name="opacity" d="M16 2h-4a2 2 0 0 0-2 2v6h4V4a2 2 0 0 1 2-2zm-2 58V50h-4v10a2 2 0 0 0 2 2h4a2 2 0 0 1-2-2z"
+  fill="#000064" opacity=".14"></path>
+  <circle data-name="layer2" cx="32" cy="56" r="2" fill="#7b8baf"></circle>
+  <path data-name="layer1" fill="#a0d6ef" d="M10 10h44v40H10z"></path>
+  <path data-name="opacity" fill="#fff" opacity=".25" d="M44.5 10L10 44.5V50h3l40-40h-8.5zM24.8 50H49l5-5V20.2C47.6 26.9 32.6 42.6 24.8 50z"></path>
+  <path data-name="stroke" d="M54 4a2 2 0 0 0-2-2H12a2 2 0 0 0-2 2v6h44zm0 46V10m-44 0v40m0 0v10a2 2 0 0 0 2 2h40a2 2 0 0 0 2-2V50z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="32" cy="56" r="2" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+</svg>

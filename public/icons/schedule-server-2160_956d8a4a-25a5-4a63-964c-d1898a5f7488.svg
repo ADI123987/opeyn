@@ -1,0 +1,32 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Schedule Server</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path fill="#8fa9d8"
+  d="M46 30a15.9 15.9 0 0 1 8 2.2V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v44a2 2 0 0 0 2 2h26.5A15.9 15.9 0 0 1 46 30z"
+  data-name="layer3"></path>
+  <path opacity=".18" fill="#000064" d="M6 48V4a2 2 0 0 1 2-2H4a2 2 0 0 0-2 2v44a2 2 0 0 0 2 2h4a2 2 0 0 1-2-2z"
+  data-name="opacity"></path>
+  <path fill="#78d1f4" d="M54 32.2A16 16 0 1 0 62 46a15.9 15.9 0 0 0-8-13.8z"
+  data-name="layer2"></path>
+  <path opacity=".18" fill="#000064" d="M30.5 50A15.9 15.9 0 0 1 38 32.1 16 16 0 0 0 24 48a15.3 15.3 0 0 0 .1 2h6.4z"
+  data-name="opacity"></path>
+  <circle fill="#44d88d" r="1" cy="10" cx="11" data-name="layer1"></circle>
+  <circle fill="#44d88d" r="1" cy="26" cx="11" data-name="layer1"></circle>
+  <circle fill="#44d88d" r="1" cy="42" cx="11" data-name="layer1"></circle>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M30.5 50H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h48a2 2 0 0 1 2 2v28.1M46 26H30m16-16H30"
+  data-name="stroke"></path>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="10" cx="11" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="26" cx="11" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="42" cx="11" data-name="stroke"></circle>
+  <path d="M54 18H2m33.4 16H2" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round" stroke="#2e4369" fill="none" data-name="stroke"></path>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="16" cy="46" cx="46" data-name="stroke"></circle>
+  <path d="M45.9 38v10h8" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round" stroke="#2e4369" fill="none" data-name="stroke"></path>
+</svg>

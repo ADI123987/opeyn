@@ -1,0 +1,20 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Briefcase</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path fill="#d6958a"
+  d="M36 43h26V21a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v22h26v-4h8z" data-name="layer3"></path>
+  <path opacity=".2" fill="#fff" d="M58 17H6a4 4 0 0 0-4 4v3a4 4 0 0 1 4-4h52a4 4 0 0 1 4 4v-3a4.006 4.006 0 0 0-4-4z"
+  data-name="opacity"></path>
+  <path d="M59.998 42.997v16h-56v-16h23.998v4.002h8.002v-4.002h24z"
+  fill="#cc7c6e" data-name="layer2"></path>
+  <path d="M4 42.997h56v6H4z" opacity=".15" fill="#000064" data-name="opacity"></path>
+  <path d="M27.998 38.999h8v8h-8z" fill="#fc6" data-name="layer1"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M22 17v-4a8 8 0 0 1 8-8h4a8 8 0 0 1 8 8v3.916M36 43h26V21a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v22h26"
+  data-name="stroke"></path>
+  <path d="M59.998 42.997v16h-56v-16" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round" stroke="#2e4369" fill="none" data-name="stroke"></path>
+  <path d="M27.998 38.999h8v8h-8z" stroke-width="2" stroke-linejoin="round"
+  stroke-linecap="round" stroke="#2e4369" fill="none" data-name="stroke"></path>
+</svg>

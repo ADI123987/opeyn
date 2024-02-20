@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Navigation Map</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#c3d6f9" d="M44 27.9l18 6v28l-18-6L20 62 2 55.9v-28l18 6 24-6z"></path>
+  <path data-name="opacity" fill="#000032" opacity=".2" d="M2 27.9v28L20 62V33.9l-18-6zm42 0v28l18 6v-28l-18-6z"></path>
+  <path data-name="layer1" d="M32 2a14 14 0 0 0-14 14c0 12.6 14 26 14 26s14-13.4 14-26A14 14 0 0 0 32 2zm0 18a4 4 0 1 1 4-4 4 4 0 0 1-4 4z"
+  fill="#f26161"></path>
+  <path data-name="opacity" d="M21 14a14 14 0 0 1 4.8-10.5A14 14 0 0 0 18 16c0 12.7 14.3 26.3 14 26l2.4-2.6C31.8 36.8 21 25.1 21 14z"
+  fill="#000032" opacity=".2"></path>
+  <path data-name="opacity" d="M24.4 32.8L20 33.9c3.5 3.8 10.2 7.2 12 8.1a66.5 66.5 0 0 1-7.6-9.2z"
+  fill="#000032" opacity=".2"></path>
+  <path data-name="stroke" fill="none" stroke="#2e4369" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="2" d="M24.4 32.8L20 33.9l-18-6v28L20 62l24-6.1 18 6v-28l-12-4m-30 4V62m24-24v17.9"></path>
+  <path data-name="stroke" d="M32 2a14 14 0 0 0-14 14c0 12.6 14 26 14 26s14-13.4 14-26A14 14 0 0 0 32 2z"
+  fill="none" stroke="#2e4369" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="2"></path>
+  <circle data-name="stroke" cx="32" cy="16" r="4" fill="none" stroke="#2e4369"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></circle>
+</svg>

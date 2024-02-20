@@ -1,0 +1,47 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Lady</title>
+  <desc>A color styled icon from Orion Icon Library.</desc>
+  <path fill="#e8d4d4"
+  d="M39 44v-2.723A19.383 19.383 0 0 0 46 26v-6.171l-.039-.041C37.3 18.354 32 10 32 10s-5.745 8.265-13.962 9.765l-.038.064V26a19.465 19.465 0 0 0 7 15.127V44c0 2-.08 5-11.231 7l10.115 11h16.358l9.99-11C39.366 49 39 46 39 44z"
+  data-name="layer4"></path>
+  <circle fill="#eae3b0" r="1" cy="56.001" cx="32" data-name="layer3"></circle>
+  <circle fill="#eae3b0" r="1" cy="54" cx="26" data-name="layer3"></circle>
+  <circle fill="#eae3b0" r="1" cy="49.999" cx="22.045" data-name="layer3"></circle>
+  <circle fill="#eae3b0" r="1" cy="49.98" cx="41.997" data-name="layer3"></circle>
+  <circle fill="#eae3b0" r="1" cy="54" cx="38" data-name="layer3"></circle>
+  <path fill="#bc5163" d="M50.11 51A14.955 14.955 0 0 1 62 62H40zM24 62H2a14.755 14.755 0 0 1 11.826-11z"
+  data-name="layer2"></path>
+  <path fill="#a06b5f" d="M48.2 16.4C48.2 6.009 38.722 2.007 32 2h-.016c-6.717.006-16.2 4.008-16.2 14.4 0 0-.019 13.38-8.131 21.6C11.724 44 25 44 25 44v-2.873A19.465 19.465 0 0 1 18 26v-6.171l.042-.062c5.578-1.018 10.011-5.149 12.286-7.7A24.894 24.894 0 0 0 32 10a22.39 22.39 0 0 0 1.7 2.214c2.206 2.58 6.477 6.615 12.265 7.573l.039.041V26a19.383 19.383 0 0 1-7 15.277V44c.022 0 13.279 0 17.334-6-8.116-8.221-8.138-21.6-8.138-21.6z"
+  data-name="layer1"></path>
+  <path opacity=".15" fill="#000064" d="M16 55a17.065 17.065 0 0 0 11-9 6.08 6.08 0 0 0 9-4c-12 2-15-16-15-20 4-2 9-6 11-12-1 2-7 8-11 9 0-4 3-17 10.992-17-6.717.006-16.2 4.008-16.2 14.4 0 0-.019 13.38-8.131 21.6C11.724 44 25 44 25 44c0 2-.08 5-11.231 7l.01.011A14.759 14.759 0 0 0 2 62h6.972c.102-1.792 1.06-5.508 7.028-7z"
+  data-name="opacity"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M17.824 19.829V26a19.338 19.338 0 0 0 8.807 16.268"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M32.008 2C25.29 2 15.8 6 15.8 16.4c0 0-.019 13.38-8.131 21.6C11.724 44 25 44 25 44"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M31.992 2C38.71 2 48.2 6 48.2 16.4c0 0 .019 13.38 8.131 21.6C52.276 44 39 44 39 44"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M37.573 42.268c4.8-2.889 8.619-9.087 8.619-16.268v-6.171"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M48.486 20C38.334 20 32 10 32 10s-6.947 10-16.49 10M40 62h22a14.955 14.955 0 0 0-11.89-11m-36.284 0A14.755 14.755 0 0 0 2 62h22"
+  data-name="stroke"></path>
+  <path stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" d="M25 41.438V44c0 2-.08 5-11.231 7l10.115 11h16.358l9.99-11C39.366 49 39 46 39 44v-2.723"
+  data-name="stroke"></path>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="56.001" cx="32" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="54" cx="26" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="49.999" cx="22.045" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="49.98" cx="41.997" data-name="stroke"></circle>
+  <circle stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#2e4369" fill="none" r="1" cy="54" cx="38" data-name="stroke"></circle>
+</svg>
