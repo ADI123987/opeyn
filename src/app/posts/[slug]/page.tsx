@@ -14,6 +14,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import SocialIcon from "@/components/social-icon";
+import { getBaseUrl } from '@/getBaseUrl.js';
 
 type Params = {
   params: {
@@ -35,7 +36,7 @@ export async function generateMetadata({
 export default async function PostPage({ params: { slug } }: Params) {
   const post = await getPost(slug, "posts");
   const postURL =
-    new URL(process.env.NEXT_PUBLIC_APP_URL as string) + `posts/${slug}`;
+    new URL(getBaseUrl() as string) + `posts/${slug}`;
   if (!post) return "No content found";
 
   const featuredMedia = post._embedded?.["wp:featuredmedia"]?.[0];

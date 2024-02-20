@@ -6,12 +6,13 @@ import SectionIconBoxes from "@/components/sections/section-icon-boxes";
 import SectionCTALayout4 from "@/components/sections/section-cta-layout-4";
 import SectionPromoVideo from "@/components/sections/section-promo-video";
 import SectionIconBoxesLayout3 from "@/components/sections/section-icon-boxes-layout-3";
+// import { getBaseUrl } from '@/getBaseUrl.js';
 
-export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL!),
-  title: "Services",
-  description: "Services page",
-};
+// export const metadata: Metadata = {
+//   metadataBase: new URL(getBaseUrl()!),
+//   title: "Services",
+//   description: "Services page",
+// };
 
 export default function PageServices() {
   return (

@@ -4,12 +4,13 @@ import type { Metadata } from "next";
 import SectionPageTitle from "@/components/sections/section-page-title";
 import SectionGoogleMap from "@/components/sections/section-google-map";
 import SectionContactForm from "@/components/sections/section-contact-form";
+// import { getBaseUrl } from '@/getBaseUrl.js';
 
-export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL!),
-  title: "Contact",
-  description: "Contact page",
-};
+// export const metadata: Metadata = {
+//   metadataBase: new URL(getBaseUrl()!),
+//   title: "Contact",
+//   description: "Contact page",
+// };
 
 export default function PageContact() {
   return (

@@ -8,12 +8,13 @@ import SectionIconBoxesLayout2 from "@/components/sections/section-icon-boxes-la
 import SectionTestimonialsSliderLayout2 from "@/components/sections/section-testimonials-slider-layout-2";
 import SectionFAQ from "@/components/sections/section-faq";
 import SectionCTALayout3 from "@/components/sections/section-cta-layout-3";
+// import { getBaseUrl } from '@/getBaseUrl.js';
 
-export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL!),
-  title: "Consulting",
-  description: "Consulting",
-};
+// export const metadata: Metadata = {
+//   metadataBase: new URL(getBaseUrl()!),
+//   title: "Consulting",
+//   description: "Consulting",
+// };
 
 export default function PageConsulting() {
   return (

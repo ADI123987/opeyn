@@ -3,12 +3,13 @@ import Footer from "@/components/layout/footer";
 import type { Metadata } from "next";
 import SectionPageTitle from "@/components/sections/section-page-title";
 import ProjectList from "@/components/projects/project-list";
+// import { getBaseUrl } from '@/getBaseUrl.js';
 
-export const metadata: Metadata = {
-  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL!),
-  title: "Projects",
-  description: "Projects page",
-};
+// export const metadata: Metadata = {
+//   metadataBase: new URL(getBaseUrl()!),
+//   title: "Projects",
+//   description: "Projects page",
+// };
 
 export default function ProjectsPage() {
   return (
